@@ -6,5 +6,5 @@ Git adalah _version control system_ yang digunakan para developer untuk mengemba
 
 Dalam [github.com](https://github.com) setiap akun yang terdaftar dapat memanfaatkan 2 metode untuk mengatur repository, yaitu:
 
-1. [Personal Account]
-2. [Organization Account]
+1. Personal Account
+2. Organization Account
