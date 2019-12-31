@@ -27,7 +27,6 @@ Untuk bisa menggunakan service gigalixir, lakukan pendaftaran di gigalixir.com, 
 
 ![install cli](images/installgglxr.jpg)
 
-Parameter `--user` disematkan supaya binary dari gigalixir bisa dijalankan oleh user biasa, tanpa perintah sudo.
 
 ### Login gigalixir
 
