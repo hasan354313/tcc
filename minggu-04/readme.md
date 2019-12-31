@@ -10,8 +10,6 @@ Pada awalnya ERP dirancang untuk industri manufaktur, sekarang perangkat lunak i
 
 ERP dapat menyederhanakan berbagai aktivitas operasional bisnis yang kompleks sehingga meningkatkan efisiensi, menghemat biaya, dan mengoptimalkan produktivitas bisnis. Perangkat lunak ini dapat digunakan oleh setiap bisnis dengan berbagai skala, baik kecil, menengah maupun besar.
 
-Salah satu contoh software ERP yang biasa digunakan oleh perusahaan adalah [Oracle](https://www.oracle.com)
-
 ### Oracle
 
 Pada awalnya Oracle adalah perusahaan pengembang aplikasi database software yang digunakan untuk mengembangkan sistem informasi dengan basis data terpusat, dan hingga saat ini produk Database Oracle masih merupakan database terbaik dan dipakai oleh hampir semua produk ERP.
@@ -27,8 +25,6 @@ Pada bulan Desember 2004, perusahaan ini mengakuisisi salah satu perusahaan peng
 Hasil dari akuisisi tersebut saat ini Oracle menawarkan berbagai paket aplikasi ERP, yaitu Oracle E-Business, Peoplesoft Enterprise dan JD Edward Enterprise One. Selain produk utama tersebut, Oracle juga menyediakan berbagai produk pelengkap (bolt-on).
 
 Tidak hanya sampai disitu saja, selain Peoplesoft, Oracle juga mengakuisisi Siebel, sebuah perusahaan pengembang palikasi CRM. Akuisisi ini membuat produk produk Oracle menjadi semakin kaya fitur dan bervariasi.
-
-Contoh lain software ERP adalah [Openbravo](https://www.openbravo.com/)
 
 ### Openbravo
 
